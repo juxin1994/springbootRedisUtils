@@ -10,6 +10,8 @@ public class TestguavaApplication {
 
     public static void main(String[] args) {
         System.out.println("bbbbb");
+        System.out.println("cccc");
+        System.out.println("dddddd");
         SpringApplication.run(TestguavaApplication.class, args);
     }
 
