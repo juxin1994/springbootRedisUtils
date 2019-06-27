@@ -11,7 +11,6 @@ public class TestguavaApplication {
     public static void main(String[] args) {
         System.out.println("bbbbb");
         System.out.println("cccc");
-        System.out.println("aaaaa");
         SpringApplication.run(TestguavaApplication.class, args);
     }
 
