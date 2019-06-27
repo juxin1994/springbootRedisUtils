@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class TestguavaApplication {
 
     public static void main(String[] args) {
-        System.out.println("aaaa");
+        System.out.println("bbbbb");
         SpringApplication.run(TestguavaApplication.class, args);
     }
 
